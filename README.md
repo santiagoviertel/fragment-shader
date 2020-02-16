@@ -8,7 +8,7 @@ __Sample Image__
 
 ![Sample Image](SampleImage.png)
 
-[Show with WebGL](http://htmlpreview.github.io/?https://github.com/santiagoviertel/fragment-shader/blob/master/index.html)
+[Show with WebGL](https://santiagoviertel.github.io/fragment-shader)
 
 - __Platforms__: Linux and Windows __(not tested)__
 - __Programming language__: GLSL and HTML
