@@ -12,4 +12,4 @@ __Sample Image__
 
 - __Platforms__: Linux and Windows __(not tested)__
 - __Programming language__: GLSL and HTML
-- __Last code change__: 02/16/2020
+- __Last code change__: 02/17/2020
