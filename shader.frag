@@ -55,7 +55,7 @@ vec4 ball() {
 		vec3 light = normalize(LPP - point);
 		color += SMDI*max(dot(light,normal), 0.0)*LPDI;
 		// Specular component
-		vec3 reflect = normalize(2.0*dot(-light,normal)*normal + light);
+		vec3 reflect = reflect(light,normal);
 		vec3 viewer = normalize(CP - point);
 		color += SMSP*pow(max(dot(reflect,viewer), 0.0),SMSH)*LPSP;
 	}
